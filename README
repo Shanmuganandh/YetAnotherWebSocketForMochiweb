@@ -5,3 +5,6 @@ The code is just initial working draft.
 The folder /wstest/ contains an example mochiweb project which supports websockets. 
 
 I have used http://github.com/gimite/web-socket-js for client in the test project. 
+
+Check the test project screen-shot at the following url
+http://cloud.github.com/downloads/Shanmuganandh/YetAnotherWebSocketForMochiweb/Screenshot.png
