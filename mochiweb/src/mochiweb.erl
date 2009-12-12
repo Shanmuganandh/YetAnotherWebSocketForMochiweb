@@ -94,13 +94,6 @@ new_response({Request, Code, Headers}) ->
                           Code,
                           mochiweb_headers:make(Headers)).
 
-%% @spec new_websocket({Request, integer(), Headers}) -> MochiWebSocket
-%% @doc Return a mochiweb_socket data structure.
-new_websocket({Request, Code, Headers}) ->
-    mochiweb_response:new(Request,
-			  Code,
-			  mochiweb_headers:make(Headers)).
-
 
 %% Internal API
 
