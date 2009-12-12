@@ -1,0 +1,5 @@
+Yet Another WebSocket Implementation For Mochiweb
+
+The code is just initial working draft. 
+
+The folder /wstest/ contains an example mochiweb project which supports websockets
