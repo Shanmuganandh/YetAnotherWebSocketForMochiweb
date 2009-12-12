@@ -1,4 +1,4 @@
-%% @Shan <shan.anand@gmail.com>
+%% @author Shan <shan.anand@gmail.com>
 %% @copyright 2009 Shanmuganandh.
 
 %% @doc Web server for wstest.
