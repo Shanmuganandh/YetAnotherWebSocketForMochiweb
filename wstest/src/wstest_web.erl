@@ -1,10 +1,10 @@
-%% @author author <author@example.com>
-%% @copyright YYYY author.
+%% @Shan <shan.anand@gmail.com>
+%% @copyright 2009 Shanmuganandh.
 
 %% @doc Web server for wstest.
 
 -module(wstest_web).
--author('author <author@example.com>').
+-author('Shan <shan.anand@gmail.com>').
 
 -export([start/1, stop/0, loop/2, ws_loop/2]).
 
